@@ -1,0 +1,8 @@
+{
+  "minPasswordLength": "Minimum password length 8 characters",
+  "onlyJpegOrPngImages": "jpeg or png images only",
+  "passwordConfirmation": "Password must be the same",
+  "loginExists": "User with this login exists",
+  "registrationSuccess": "Registration completed successfully!",
+  "uploadProfilePhoto": "Upload profile photo"
+}

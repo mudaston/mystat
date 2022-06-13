@@ -1,0 +1,8 @@
+{
+  "minPasswordLength": "Мінімальна довжина пароля 8 символів",
+  "onlyJpegOrPngImages": "Тільки зображення формату jpeg або png",
+  "passwordConfirmation": "Пароль має бути однаковим",
+  "loginExists": "Користувач із таким логіном існує",
+  "registrationSuccess": "Реєстрація пройшла успішно!",
+  "uploadProfilePhoto": "Завантажити фото профілю"
+}

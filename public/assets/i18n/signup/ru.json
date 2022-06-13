@@ -1,0 +1,8 @@
+{
+  "minPasswordLength": "Минимальная длина пароля 8 символов",
+  "onlyJpegOrPngImages": "Только изображения формата jpeg или png",
+  "passwordConfirmation": "Пароль должен быть одинаковым",
+  "loginExists": "Пользователь с таким логином существует",
+  "registrationSuccess": "Регистрация прошла успешно!",
+  "uploadProfilePhoto": "Загрузить фото профиля"
+}

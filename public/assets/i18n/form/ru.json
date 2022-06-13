@@ -1,0 +1,8 @@
+{
+  "teacher": "учитель",
+  "student": "студент",
+  "userName": "Имя пользователя",
+  "enterPasswordAgain": "Введите пароль еще раз",
+  "profilePhotoRequired": "Загрузите фото профиля",
+  "photoSizeIsTooLarge": "Размер фото слишком большой"
+}

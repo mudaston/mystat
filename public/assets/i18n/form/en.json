@@ -1,0 +1,9 @@
+{
+  "teacher": "teacher",
+  "student": "student",
+  "userName": "Username",
+  "enterPasswordAgain": "Enter password again",
+  "profilePhotoRequired": "Profile photo required",
+  "photoSizeIsTooLarge": "Photo size is too big",
+  "uploadProfilePhoto": "Upload profile photo"
+}

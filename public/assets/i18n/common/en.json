@@ -1,0 +1,11 @@
+{
+  "select": "Not selected",
+  "search": "Search",
+  "login": "Login",
+  "registration":  "Sign up",
+  "password": "Password",
+  "signIn": "Sign in",
+  "logout": "Logout",
+  "toHomePage": "Go to home page",
+  "noSubjects": "No subjects"
+}

@@ -1,0 +1,46 @@
+body {
+    font-family: San Francisco, Roboto, sans-serif;
+    color: var(--text-color);
+
+    background-color: var(--primary-600);
+
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    line-height: 1;
+}
+
+label {
+    cursor: pointer;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+
+    min-height: 1000px;
+    height: 100vh;
+    width: 100%;
+
+    overflow: hidden;
+}
+
+.search-table {
+    height: 100%;
+    width: 100%;
+    max-width: 1040px;
+
+    padding: 4.375rem 0;
+    margin: 0 auto;
+}

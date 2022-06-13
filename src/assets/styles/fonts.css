@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'San Francisco';
+    src: url('../fonts/SFUIDisplay-Thin.eot');
+    src: url('../fonts/SFUIDisplay-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Thin.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('../fonts/SFUIDisplay-Regular.eot');
+    src: url('../fonts/SFUIDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Regular.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('../fonts/SFUIDisplay-Medium.eot');
+    src: url('../fonts/SFUIDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Medium.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('../fonts/SFUIDisplay-Semibold.eot');
+    src: url('../fonts/SFUIDisplay-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Semibold.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('../fonts/SFUIDisplay-Bold.eot');
+    src: url('../fonts/SFUIDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Bold.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*
+    weights
+    100
+    400
+    500
+    600
+    700
+*/

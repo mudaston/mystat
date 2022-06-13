@@ -1,0 +1,17 @@
+:root {
+    --primary-300: #143660;
+    --primary-400: #001E3C;
+    --primary-500: #071A2F;
+    --primary-600: #0A1929;
+
+    --accent-100: #007FFF;
+    --error-100: #fc7b72;
+    --success-100: #69F0AE;
+
+    --grey-400: #B1BBC3;
+    --grey-700: #616161;
+
+    --text-color-dark-mode: #FFF;
+    --text-color-light-mode: #000;
+    --text-color: var(--text-color-dark-mode);
+}
