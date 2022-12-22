@@ -39,7 +39,12 @@ const Search: FC<Props> = ({ getValue }) => {
     return (
         <Style>
             <span className='icon-search' />
-            <Input ref={refInput} type='search' placeholder={t('search')} onChange={changeHandler} />
+            <Input
+                ref={refInput}
+                type='search'
+                placeholder={t('search')}
+                onChange={changeHandler}
+            />
             <Prompt>Ctrl + K</Prompt>
         </Style>
     )
